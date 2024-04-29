@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sapanla Kuş Vuran Nesil</title>
+
+    <link rel="stylesheet" href="oyun.css">
+
+    <style>
+        h1 {
+            color: rgb(255, 0, 0); /* Başlık rengini kırmızı yaptım */
+            font-family: Arial, sans-serif; /* Yazı tipini değiştirdim */
+        }
+        #sky {
+            position: fixed;
+            top: 150;
+            left: 150;
+            width: 100%;
+            height: 100%;
+            
+            background-size: cover; /* Resmi kapsayacak şekilde boyutlandırdım */
+            z-index: -1;
+        }
+
+    </style>
+
+    <script src="oyun.js"></script>
+    <title>Oyun</title>
+    <style>
+        #restartButton {
+            position: absolute;
+            top: 155px;
+            left: 155px;
+        }
+    </style>
+    
+</head>
+
+<body>
+
+    <div id="sky"></div> <!-- Gökyüzü resmi için div ekledim-->
+    <h1>Sapanla Kuş Vuran Nesil</h1>
+    <canvas id="board"></canvas>
+
+    <canvas id="gameCanvas" width="2" height="90"></canvas>
+    <button id="restartButton">Oyunu Tekrar Başlat</button>
+    <script src="oyun.js"></script>
+
+</body>
+
+</html>
