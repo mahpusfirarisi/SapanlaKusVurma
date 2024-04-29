@@ -7,7 +7,8 @@ Yüklediğim linkten siteye gittiğiniz oyun başlayacaktır,oynaması basit,kaz
 
 --TESTLER NASIL ÇALIŞIR--
 Oyunun çalışıp çalışmadığına dair tüm testler yapıldı,gerekli videolar youtube kanalına yüklendi..
-
+--PROJE TANITIM YOUTUBE VİDEOSU--
+https://youtu.be/9nVMsWMRjHI
 --PROJE GELİŞTİRİLİRKEN FAYDALANDIĞIM KAYNAKLAR--
 1-www.w3schools.com
 2-Turgay Bilgin hocamızın paylaştığı pdf'de ki tüm içerikler
