@@ -13,3 +13,5 @@ Oyunun çalışıp çalışmadığına dair tüm testler yapıldı,gerekli video
 2-Turgay Bilgin hocamızın paylaştığı pdf'de ki tüm içerikler
 3-chatGPT
 4-www.freecodecamp.org
+![Ekran görüntüsü 2024-04-29 192246](https://github.com/mahpusfirarisi/SapanlaKusVurma/assets/116714279/5601bbb7-13e0-442b-b2d7-62180b282b1e)
+![Ekran görüntüsü 2024-04-29 192312](https://github.com/mahpusfirarisi/SapanlaKusVurma/assets/116714279/833393ad-0536-47d7-8bf4-f81d1415516e)
